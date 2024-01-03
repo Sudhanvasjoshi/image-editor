@@ -1,3 +1,6 @@
-pip==23.3.2
-Flask==3.0.0
+pip
+Flask
+Werkzeug
+shortuuid
+opencv-python
 
